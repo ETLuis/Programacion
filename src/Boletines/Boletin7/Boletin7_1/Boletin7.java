@@ -1,4 +1,4 @@
-package boletin7;
+package Boletines.Boletin7.Boletin7_1;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;
